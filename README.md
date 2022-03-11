@@ -1,1 +1,1 @@
-# projeto-troca-humor
+# projeto-gerador-de-emojis
